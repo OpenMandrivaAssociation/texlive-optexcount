@@ -1,6 +1,6 @@
 Name:		texlive-optexcount
 Version:	59817
-Release:	1
+Release:	2
 Summary:	Python script for counting words in OpTeX documents
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/optexcount
