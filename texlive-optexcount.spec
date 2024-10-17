@@ -3,7 +3,7 @@ Version:	59817
 Release:	2
 Summary:	Python script for counting words in OpTeX documents
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/optexcount
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/optexcount
 License:	mit
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/optexcount.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/optexcount.doc.r%{version}.tar.xz
